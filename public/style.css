@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+}
+p{
+
+    font-size: larger;
+    font-weight: bolder;
+}
+form{
+    position: absolute;
+    right: .5rem;
+    top: 1rem;
+}
+body{
+    padding-top: 3.5rem;
+    justify-content: center;
+    text-align: center;
+}

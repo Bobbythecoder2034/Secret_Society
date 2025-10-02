@@ -1,0 +1,45 @@
+Answer Key
+
+_______________________________________
+Puzzle 1
+Puzzle: scope
+Hint: scientific instrument
+Answer: microscope
+url:localhost:5000/microscope
+_______________________________________
+Puzzle 2
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
+Puzzle 3
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
+Puzzle 4
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
+Puzzle 5
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
+Puzzle 6
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
+Puzzle 7
+Puzzle:
+Hint:
+Answer:
+url:localhost:5000/
+_______________________________________
