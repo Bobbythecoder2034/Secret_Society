@@ -17,12 +17,12 @@ app.use(express.static(path.join(__dirname,"public")))
 
 //------Hints------
 const hint1 = 'scientific instrument for the small'
-const hint2 = ''
-const hint3 = ''
-const hint4 = ''
-const hint5 = ''
-const hint6 = ''
-const hint7 = ''
+const hint2 = 'sudoku and solitaire are solitary games'
+const hint3 = 'Think of your mouth'
+const hint4 = 'bear => bare: similar but different'
+const hint5 = 'What is jack inside of?'
+const hint6 = 'Think about the positioning.'
+const hint7 = 'Typing'
 
 //------Questions------
 //===========================================================
@@ -33,49 +33,49 @@ app.get('/begin/hint',(req,res)=>{
     res.status(203).json({hint:`${hint1}`})
 })
 //===========================================================
-app.get('/puzzle2',(req,res)=>{
+app.get('/microscope',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle2.html"))
 })
-app.get('/puzzle2/hint',(req,res)=>{
+app.get('/microscope/hint',(req,res)=>{
     res.status(203).json({hint:`${hint2}`})
 })
 //===========================================================
-app.get('/puzzle3',(req,res)=>{
+app.get('/chess',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle3.html"))
 })
-app.get('/puzzle3/hint',(req,res)=>{
+app.get('/chess/hint',(req,res)=>{
     res.status(203).json({hint:`${hint3}`})
 })
 //===========================================================
-app.get('/puzzle4',(req,res)=>{
+app.get('/teeth',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle4.html"))
 })
-app.get('/puzzle4/hint',(req,res)=>{
+app.get('/teeth/hint',(req,res)=>{
     res.status(203).json({hint:`${hint4}`})
 })
 //===========================================================
-app.get('/puzzle5',(req,res)=>{
+app.get('/we_need_to_write_a_new_story',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle5.html"))
 })
-app.get('/puzzle5/hint',(req,res)=>{
+app.get('/we_need_to_write_a_new_story/hint',(req,res)=>{
     res.status(203).json({hint:`${hint5}`})
 })
 //===========================================================
-app.get('/puzzle6',(req,res)=>{
+app.get('/jack_in_the_box',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle6.html"))
 })
-app.get('/puzzle6/hint',(req,res)=>{
+app.get('/jack_in_the_box/hint',(req,res)=>{
     res.status(203).json({hint:`${hint6}`})
 })
 //===========================================================
-app.get('/puzzle7',(req,res)=>{
+app.get('/two_eggs_over_easy',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/puzzle7.html"))
 })
-app.get('/puzzle7/hint',(req,res)=>{
+app.get('/two_eggs_over_easy/hint',(req,res)=>{
     res.status(203).json({hint:`${hint7}`})
 })
 //===========================================================
-app.get('/answer',(req,res)=>{
+app.get('/a_keyboard',(req,res)=>{
     res.sendFile(path.join(__dirname,"./public/finalPage.html"))
 })
 //===========================================================

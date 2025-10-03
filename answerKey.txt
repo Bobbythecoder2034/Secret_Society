@@ -8,38 +8,39 @@ Answer: microscope
 url:localhost:5000/microscope
 _______________________________________
 Puzzle 2
-Puzzle:
-Hint:
-Answer:
-url:localhost:5000/
+Puzzle: Barbara and her three sister are playing games. Mary is playing solitaire, Joane is solving a sudoku puzzle, and Sarah is playing chess. What is Barbara playing?
+Hint: Sudoku and solitaire are solitary games
+Answer: chess
+url:localhost:5000/chess
 _______________________________________
 Puzzle 3
-Puzzle:
-Hint:
-Answer:
+Puzzle: Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still
+Hint: Think of your mouth
+Answer: teeth
 url:localhost:5000/
 _______________________________________
 Puzzle 4
-Puzzle:
-Hint:
-Answer:
-url:localhost:5000/
+Puzzle: Wii knead too right a gnu storey
+Hint: bear => bare: similar but different
+Answer: We need to write a new story
+url:localhost:5000/we_need_to_write_a_new_story
 _______________________________________
 Puzzle 5
-Puzzle:
-Hint:
-Answer:
-url:localhost:5000/
+Puzzle: Jack with a border
+Hint: What is jack inside of?
+Answer: Jack in the box
+url:localhost:5000/jack_in_the_box
 _______________________________________
 Puzzle 6
-Puzzle:
-Hint:
-Answer:
-url:localhost:5000/
+Puzzle:egg egg
+         easy
+Hint: Think about the positioning
+Answer: two eggs over easy
+url:localhost:5000/two_eggs_over_easy
 _______________________________________
 Puzzle 7
-Puzzle:
-Hint:
-Answer:
-url:localhost:5000/
+Puzzle: I have keys, but no locks. I have space, but no rooms. You can enter, but you can’t go outside. What am I?
+Hint: Typing
+Answer: a keyboard
+url:localhost:5000/a_keyboard
 _______________________________________
